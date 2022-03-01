@@ -63,7 +63,7 @@ Actually, you can replace *data/dev.jsonl* to point to a different file, as far 
 
 ## Additional instructions
 
-The *StudentModel* class takes as input two parameters. One is the *device*, the other one has as default value "SE" $\rightarrow$ the best model is tested. The other two possible parameter values are "IDF-AVG" and "SIF", that can be used in order to test the other two implemented models. In the stud folder there are the corresponding three ipython notebooks containing the three training codes.
+The *StudentModel* class takes as input two parameters. One is the *device*, the other one has as default value "SE": the best model is tested. The other two possible parameter values are "IDF-AVG" and "SIF", that can be used in order to test the other two implemented models. In the stud folder there are the corresponding three ipython notebooks containing the three training codes.
 
 In order to be able to run the code with the "SE" model, it is necessary to download the [glove.840B.300d](https://nlp.stanford.edu/data/glove.840B.300d.zip) vectors (they are needed also for the other two models) and the [model](https://drive.google.com/file/d/18qUSaGwkhWvkfr8l3850wFbbTZLVMtVX/view?usp=sharing) and put them in the *model/* folder.
 
