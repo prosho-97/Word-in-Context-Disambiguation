@@ -3,5 +3,5 @@ requests==2.32.2
 numpy==1.22.0
 scikit-learn==1.5.0
 tqdm==4.66.3
-torch==1.7.1
+torch==2.2.0
 jsonlines==2.0.0
